@@ -1,4 +1,4 @@
-# CreateJS Excercises
+# CreateJS Exercises
 
 ---
 
